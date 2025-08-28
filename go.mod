@@ -15,7 +15,7 @@ require (
 	github.com/pborman/uuid v1.2.0 // indirect
 	github.com/stretchr/testify v1.7.0
 	github.com/terraform-providers/terraform-provider-ignition v1.2.1
-	github.com/ulikunitz/xz v0.5.8 // indirect
+	github.com/ulikunitz/xz v0.5.14 // indirect
 	golang.org/x/crypto v0.0.0-20220112180741-5e0467b6c7ce
 	golang.org/x/lint v0.0.0-20200302205851-738671d3881b
 	gopkg.in/yaml.v2 v2.4.0 // indirect
